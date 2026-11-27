@@ -96,5 +96,6 @@ All final numbers (baseline, per-model CV scores, feature selection and PCA verd
 |---|---|
 | Anurag Singh | 25AI1008 |
 | Ajeet Kumar Yadav | 25AI1003 |
+|Snehangshu Sarkar | 25AI1050 |
 
 B.Tech (AIDS) | Subject: AIML | Mini Project
